@@ -1,3 +1,3 @@
 # hello-world
-Repositório inicial para compreensão do ambiente GitHub
-Fernando de Almeida de Souza residente em Conselheiro Lafaiete Minas Gerais. Alterando arquivo read.me em GitHub.
+Repositório inicial para compreensão do GitHub
+Fernando Souza residente em Conselheiro Lafaiete, Minas Gerais, CEP 36.400-000. Alterando arquivo read.me em GitHub.
